@@ -1,16 +1,17 @@
 {
-    "name": "panymari/composer",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "Panymari\\Composer\\": "../src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Maria Pashkovskaya",
-            "email": "panymari84@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "panymari/composer",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Panymari\\Composer\\": "../src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Maria Pashkovskaya",
+      "email": "panymari84@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {}
 }
