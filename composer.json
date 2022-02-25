@@ -1,0 +1,15 @@
+{
+    "name": "panymari/composer",
+    "autoload": {
+        "psr-4": {
+            "Panymari\\Composer\\": "../src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maria Pashkovskaya",
+            "email": "panymari84@gmail.com"
+        }
+    ],
+    "require": {}
+}
