@@ -1,6 +1,7 @@
 {
   "name": "panymari/composer",
   "license": "MIT",
+  "type": "library",
   "autoload": {
     "psr-4": {
       "Panymari\\Composer\\": "../src/"
@@ -12,6 +13,6 @@
       "email": "panymari84@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
   "require": {}
 }
