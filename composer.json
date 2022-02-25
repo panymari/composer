@@ -1,5 +1,6 @@
 {
     "name": "panymari/composer",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Panymari\\Composer\\": "../src/"
